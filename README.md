@@ -51,7 +51,7 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset
 
 ## 📸 Tampilan Dashboard
 
-(Masukkan screenshot dashboard di sini)
+https://github.com/suryamlnhfz/powerbi-football-squad-analysis/blob/main/Dashboard_preview.png
 
 ---
 
