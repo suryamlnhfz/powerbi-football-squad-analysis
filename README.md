@@ -42,7 +42,7 @@ Dashboard ini dirancang untuk memberikan insight berbasis data terkait kekuatan 
 Karena keterbatasan ukuran file di GitHub, file Power BI dapat diakses melalui:
 
 🔗 **Download File Power BI (.pbix)**  
-(Paste link Google Drive di sini)
+https://drive.google.com/file/d/1tB_8byXk07jw3m3dooawOB2qY3y88iUc/view?usp=sharing
 
 🔗 **Sumber Dataset (Kaggle)**  
 https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset
